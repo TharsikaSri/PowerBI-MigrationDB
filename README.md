@@ -12,7 +12,7 @@ The dataset used is called "Dataset- migration_nz.csv". It consists of a table w
 - README.md -> this file provides information on this project <br> </div
 
 <div align="center"> <h3 align="center"> 🔑 Key Tools ⚙️ </h3> </div>
-Both <b><i> PowerBI </i></b> and <b><i> PowerQuery (SQL) </i></b> tools were used to successfully complete the analysis. <b><i> Data Cleaning </i></b> was an essential part of this project as the dataset was dirty and it required cleaning before the data visualisation part of the project. Both <b><i> Data Cleaning </i></b> and Data Visualisation processess were completed using <b><i> PowerBI </i></b>.
+Both <b><i> PowerBI </i></b> and <b><i> PowerQuery </i></b> tools were used to successfully complete the analysis. <b><i> Data Cleaning </i></b> was an essential part of this project as the dataset was dirty and it required cleaning before the data visualisation part of the project. Both <b><i> Data Cleaning </i></b> and Data Visualisation processess were completed using <b><i> PowerBI </i></b>.
 
 <div align="center"> <h3 align="center"> 🧐 Insights 🧐 </h3> </div>
 <b> Visualisations </b>: 
