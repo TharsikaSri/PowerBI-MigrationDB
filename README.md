@@ -8,7 +8,7 @@ The dataset used is called "Dataset- migration_nz.csv". It consists of a table w
 
 <div align="center"> <h3 align="center"> 📂 Repository Sections 📂 </h3> </div> 
 - Dataset- migration_nz.csv -> a CSV file with the migration dataset <br>
-- Migration.pbix - > this is a PowerBI file which contains the visualisations for this project <br>
+- Migration.pbix - > this is a PowerBI file which contains the visualisations for this project <br> 
 - README.md -> this file provides information on this project <br> </div
 
 <div align="center"> <h3 align="center"> 🔑 Key Tools ⚙️ </h3> </div>
